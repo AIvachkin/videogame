@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.github.aivachkin"},{"l":"com.github.aivachkin.entity"},{"l":"com.github.aivachkin.exception"},{"l":"com.github.aivachkin.service"}]
